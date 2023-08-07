@@ -1,0 +1,7 @@
+.vscode
+etl-pipeline/poetry.lock
+etl-pipeline/.venv
+etl-pipeline/data/*
+infrastructure/.terraform*
+infrastructure/terraform.tfstate*
+*__pycache__
